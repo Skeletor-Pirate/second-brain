@@ -1,0 +1,88 @@
+---
+source_file: "server/src/lib/inbound-chat.ts"
+type: "code"
+community: "Community None"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# inbound-chat.ts
+
+## Connections
+- [[AttemptRecord]] - `imports` [EXTRACTED]
+- [[ChainRow]] - `imports` [EXTRACTED]
+- [[ChatMessage_1]] - `imports` [EXTRACTED]
+- [[ChatToolCall]] - `imports` [EXTRACTED]
+- [[ChatToolChoice]] - `imports` [EXTRACTED]
+- [[ChatToolDefinition]] - `imports` [EXTRACTED]
+- [[CompletionOptions]] - `imports` [EXTRACTED]
+- [[ExhaustionBody]] - `imports` [EXTRACTED]
+- [[InboundChatRequest]] - `contains` [EXTRACTED]
+- [[InboundChatResult]] - `contains` [EXTRACTED]
+- [[InboundChatWire]] - `contains` [EXTRACTED]
+- [[ResolvedPin]] - `contains` [EXTRACTED]
+- [[RouteResult]] - `imports` [EXTRACTED]
+- [[applyTokenBudget()]] - `imports` [EXTRACTED]
+- [[base.ts]] - `imports_from` [EXTRACTED]
+- [[containsDialectMarker()]] - `imports` [EXTRACTED]
+- [[content.ts]] - `imports_from` [EXTRACTED]
+- [[contentToString()]] - `imports` [EXTRACTED]
+- [[couldBecomeDialectMarker()]] - `imports` [EXTRACTED]
+- [[dbindex.ts]] - `imports_from` [EXTRACTED]
+- [[error-classify.ts]] - `imports_from` [EXTRACTED]
+- [[error-redaction.ts]] - `imports_from` [EXTRACTED]
+- [[estimateTokens()]] - `contains` [EXTRACTED]
+- [[fallback-loop.ts]] - `imports_from` [EXTRACTED]
+- [[gemini-wire.ts]] - `imports_from` [EXTRACTED]
+- [[gemini.ts]] - `imports_from` [EXTRACTED]
+- [[getDb()]] - `imports` [EXTRACTED]
+- [[getModelGroups()]] - `imports` [EXTRACTED]
+- [[getStickyModel()]] - `imports` [EXTRACTED]
+- [[guardrails.ts]] - `imports_from` [EXTRACTED]
+- [[hasImages()]] - `contains` [EXTRACTED]
+- [[header-value.ts]] - `imports_from` [EXTRACTED]
+- [[image-normalize.ts]] - `imports_from` [EXTRACTED]
+- [[invalidToolArgumentsError()]] - `imports` [EXTRACTED]
+- [[invalidToolCallReasons()]] - `imports` [EXTRACTED]
+- [[isToolArgumentValidationEnabled()]] - `imports` [EXTRACTED]
+- [[isUnifyEnabled()]] - `imports` [EXTRACTED]
+- [[isUpstreamClassificationOutput()]] - `imports` [EXTRACTED]
+- [[logRequest()]] - `imports` [EXTRACTED]
+- [[newClientAbortError()]] - `imports` [EXTRACTED]
+- [[newFallbackState()]] - `imports` [EXTRACTED]
+- [[normalizeMessageImages()]] - `imports` [EXTRACTED]
+- [[ollama.ts]] - `imports_from` [EXTRACTED]
+- [[recordUpstreamSuccess()]] - `imports` [EXTRACTED]
+- [[ref_express]] - `imports_from` [EXTRACTED]
+- [[repairToolArguments()]] - `imports` [EXTRACTED]
+- [[request-log.ts]] - `imports_from` [EXTRACTED]
+- [[rescueInlineToolCalls()]] - `imports` [EXTRACTED]
+- [[resolveModelGroupCandidates()]] - `imports` [EXTRACTED]
+- [[resolvePin()]] - `contains` [EXTRACTED]
+- [[resolveRequestedIdForDispatch()]] - `imports` [EXTRACTED]
+- [[resolveStickyPreference()]] - `imports` [EXTRACTED]
+- [[routeRequest()]] - `imports` [EXTRACTED]
+- [[routedViaValue()]] - `imports` [EXTRACTED]
+- [[router.ts]] - `imports_from` [EXTRACTED]
+- [[routesproxy.ts]] - `imports_from` [EXTRACTED]
+- [[routingReserveTokens()]] - `imports` [EXTRACTED]
+- [[runFallbackLoop()]] - `imports` [EXTRACTED]
+- [[runInboundChat()]] - `contains` [EXTRACTED]
+- [[sanitizeProviderErrorMessage()]] - `imports` [EXTRACTED]
+- [[sendExhaustion()]] - `contains` [EXTRACTED]
+- [[servicesmodel-groups.ts]] - `imports_from` [EXTRACTED]
+- [[setExhaustionHeaders()]] - `imports` [EXTRACTED]
+- [[setFallbackHeaders()]] - `imports` [EXTRACTED]
+- [[setStickyModel()]] - `imports` [EXTRACTED]
+- [[sharedtypes.ts]] - `imports_from` [EXTRACTED]
+- [[startsWithDialectMarker()]] - `imports` [EXTRACTED]
+- [[tokenBudgetMessage()]] - `imports` [EXTRACTED]
+- [[tool-args.ts]] - `imports_from` [EXTRACTED]
+- [[tool-call-rescue.ts]] - `imports_from` [EXTRACTED]
+- [[tool-validate.ts]] - `imports_from` [EXTRACTED]
+- [[toolSchemaMap()]] - `imports` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None

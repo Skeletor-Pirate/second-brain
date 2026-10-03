@@ -1,0 +1,19 @@
+---
+source_file: "server/src/lib/crypto.ts"
+type: "code"
+community: "Community None"
+location: "L75"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# writeKeyFileAtomic()
+
+## Connections
+- [[crypto.ts]] - `contains` [EXTRACTED]
+- [[initEncryptionKey()]] - `calls` [EXTRACTED]
+- [[restrictToOwner()]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None

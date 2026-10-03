@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "386e5a3766875418",
+    "type": "split",
+    "children": [
+      {
+        "id": "50db8d2b6d40ccb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53888b5efd5de436",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10f327cb20622649",
+    "type": "split",
+    "children": [
+      {
+        "id": "44dab0ce166ec417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f71941f8304c71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "865dc635859c7da0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b70f3a271655340",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64b453eb8c5b97b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c340658c3c303f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "277d766fcc4b0623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Resources/Agentic_Design_Patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Agentic_Design_Patterns"
+            }
+          },
+          {
+            "id": "ab779bce539da2b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Resources/Agentic_Design_Patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Agentic_Design_Patterns"
+            }
+          },
+          {
+            "id": "aa9cc652913294cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "53888b5efd5de436",
+  "lastOpenFiles": [
+    "README.md",
+    "03_Resources/OmniRouter_CheatSheet.md",
+    "CLAUDE.md",
+    "Home.md",
+    "03_Resources/Agentic_Design_Patterns.md",
+    "llm-wiki.md",
+    "raw-sources/State_of_GPT_Karpathy.md",
+    "raw-sources/llm-wiki.md",
+    "raw-sources/Intro_to_LLMs_Karpathy.md"
+  ]
+}

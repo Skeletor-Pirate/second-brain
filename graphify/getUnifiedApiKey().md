@@ -1,0 +1,88 @@
+---
+source_file: "server/src/db/index.ts"
+type: "code"
+community: "Community None"
+location: "L225"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# getUnifiedApiKey()
+
+## Connections
+- [[anthropic-fallback-convergence.test.ts]] - `imports` [EXTRACTED]
+- [[anthropic.test.ts]] - `imports` [EXTRACTED]
+- [[anthropic.ts]] - `imports` [EXTRACTED]
+- [[anthropicHeaders()]] - `calls` [EXTRACTED]
+- [[anthropicHeaders()_1]] - `calls` [EXTRACTED]
+- [[anthropicHeaders()_2]] - `calls` [EXTRACTED]
+- [[audio-transcriptions.test.ts]] - `imports` [EXTRACTED]
+- [[authHeaders()]] - `calls` [EXTRACTED]
+- [[authHeaders()_1]] - `calls` [EXTRACTED]
+- [[authHeaders()_2]] - `calls` [EXTRACTED]
+- [[authHeaders()_3]] - `calls` [EXTRACTED]
+- [[authHeaders()_4]] - `calls` [EXTRACTED]
+- [[authHeaders()_5]] - `calls` [EXTRACTED]
+- [[authHeaders()_6]] - `calls` [EXTRACTED]
+- [[authHeaders()_7]] - `calls` [EXTRACTED]
+- [[authHeaders()_8]] - `calls` [EXTRACTED]
+- [[authHeaders()_9]] - `calls` [EXTRACTED]
+- [[authHeaders()_10]] - `calls` [EXTRACTED]
+- [[authHeaders()_11]] - `calls` [EXTRACTED]
+- [[authHeaders()_12]] - `calls` [EXTRACTED]
+- [[authenticate()]] - `calls` [EXTRACTED]
+- [[authenticate()_1]] - `calls` [EXTRACTED]
+- [[authenticate()_2]] - `calls` [EXTRACTED]
+- [[authorize()]] - `calls` [EXTRACTED]
+- [[body-limit.test.ts]] - `imports` [EXTRACTED]
+- [[client-profiles.test.ts]] - `imports` [EXTRACTED]
+- [[custom-provider.test.ts]] - `imports` [EXTRACTED]
+- [[dbindex.ts]] - `contains` [EXTRACTED]
+- [[disabled-model-routing.test.ts]] - `imports` [EXTRACTED]
+- [[full-flow.test.ts]] - `imports` [EXTRACTED]
+- [[fusion.test.ts]] - `imports` [EXTRACTED]
+- [[gemini.test.ts]] - `imports` [EXTRACTED]
+- [[gemini.ts]] - `imports` [EXTRACTED]
+- [[getDb()]] - `calls` [EXTRACTED]
+- [[mcp.test.ts]] - `imports` [EXTRACTED]
+- [[mcp.ts]] - `imports` [EXTRACTED]
+- [[ollama.test.ts]] - `imports` [EXTRACTED]
+- [[ollama.ts]] - `imports` [EXTRACTED]
+- [[openaiHeaders()]] - `calls` [EXTRACTED]
+- [[postTranscription()]] - `calls` [EXTRACTED]
+- [[proxy-array-content.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-auth-cors.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-auto-model.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-cache.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-completions.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-error-redaction.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-model-groups.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-pinned-model.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-served-model.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-stream-integrity.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-tools-routing.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-tools.test.ts]] - `imports` [EXTRACTED]
+- [[proxy-vision.test.ts]] - `imports` [EXTRACTED]
+- [[reasoning-control.test.ts]] - `imports` [EXTRACTED]
+- [[request()_35]] - `calls` [EXTRACTED]
+- [[resolveAuth()]] - `calls` [EXTRACTED]
+- [[responses-fallback-convergence.test.ts]] - `imports` [EXTRACTED]
+- [[responses.test.ts]] - `imports` [EXTRACTED]
+- [[routed-via-header.test.ts]] - `imports` [EXTRACTED]
+- [[routesanthropic-documents.test.ts]] - `imports` [EXTRACTED]
+- [[routescompression.test.ts]] - `imports` [EXTRACTED]
+- [[routesurl-tokens.ts]] - `imports` [EXTRACTED]
+- [[rpc()]] - `calls` [EXTRACTED]
+- [[server-host.ts]] - `imports` [EXTRACTED]
+- [[servicesurl-tokens.ts]] - `imports` [EXTRACTED]
+- [[settings.ts]] - `imports` [EXTRACTED]
+- [[status.test.ts]] - `imports` [EXTRACTED]
+- [[status.ts]] - `imports` [EXTRACTED]
+- [[system-prompt.test.ts]] - `imports` [EXTRACTED]
+- [[system-prompt.ts]] - `imports` [EXTRACTED]
+- [[url-tokens.test.ts]] - `imports` [EXTRACTED]
+- [[validateUrlToken()]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None

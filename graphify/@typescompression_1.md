@@ -1,0 +1,17 @@
+---
+source_file: "server/package.json"
+type: "concept"
+community: "Community None"
+location: "L36"
+tags:
+  - graphify/concept
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# @types/compression
+
+## Connections
+- [[@typescompression]] - `imports` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/Community_None

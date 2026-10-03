@@ -1,0 +1,19 @@
+{
+  "name": "Second Brain OmniRouter Profile",
+  "version": "1.0.0",
+  "description": "Local AI Gateway configuration for Second Brain note synthesis and Claude CLI",
+  "server": {
+    "host": "localhost",
+    "port": 3000,
+    "compression": {
+      "enabled": true,
+      "engine": "hybrid",
+      "mcp_description_compression": "rtk"
+    }
+  },
+  "default_routes": {
+    "claude": "claude-3-5-sonnet-20241022",
+    "fast": "gpt-4o-mini",
+    "local": "ollama/llama3"
+  }
+}

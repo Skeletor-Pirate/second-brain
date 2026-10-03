@@ -1,0 +1,86 @@
+---
+source_file: "client/src/pages/AnalyticsPage.tsx"
+type: "code"
+community: "Community None"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# AnalyticsPage.tsx
+
+## Connections
+- [[AnalyticsPage()]] - `contains` [EXTRACTED]
+- [[App.tsx]] - `imports_from` [EXTRACTED]
+- [[Badge()]] - `imports` [EXTRACTED]
+- [[ByClientRow]] - `contains` [EXTRACTED]
+- [[ByKeyRow]] - `contains` [EXTRACTED]
+- [[ByModelRow]] - `contains` [EXTRACTED]
+- [[ByPlatformRow]] - `contains` [EXTRACTED]
+- [[DetailField()]] - `contains` [EXTRACTED]
+- [[Dialog()]] - `imports` [EXTRACTED]
+- [[DialogClose()]] - `imports` [EXTRACTED]
+- [[DialogPopup()]] - `imports` [EXTRACTED]
+- [[DialogTitle()]] - `imports` [EXTRACTED]
+- [[ErrorDistribution]] - `contains` [EXTRACTED]
+- [[PageHeader()]] - `imports` [EXTRACTED]
+- [[Panel()]] - `contains` [EXTRACTED]
+- [[PlatformDot()]] - `contains` [EXTRACTED]
+- [[RecentCallRow]] - `contains` [EXTRACTED]
+- [[RecentCallsResponse]] - `contains` [EXTRACTED]
+- [[RecentErrorRow]] - `contains` [EXTRACTED]
+- [[RequestAttempt]] - `contains` [EXTRACTED]
+- [[RequestDetail]] - `contains` [EXTRACTED]
+- [[RequestDetailDialog()]] - `contains` [EXTRACTED]
+- [[SegmentedControl()]] - `imports` [EXTRACTED]
+- [[SelectContent()]] - `imports` [EXTRACTED]
+- [[SelectItem()]] - `imports` [EXTRACTED]
+- [[SelectTrigger()]] - `imports` [EXTRACTED]
+- [[SelectValue()]] - `imports` [EXTRACTED]
+- [[Skeleton()]] - `imports` [EXTRACTED]
+- [[Stat()]] - `contains` [EXTRACTED]
+- [[StatusFilter_1]] - `contains` [EXTRACTED]
+- [[SummaryResponse]] - `contains` [EXTRACTED]
+- [[TIME_RANGES]] - `contains` [EXTRACTED]
+- [[Table()]] - `imports` [EXTRACTED]
+- [[TableBody()]] - `imports` [EXTRACTED]
+- [[TableCell()]] - `imports` [EXTRACTED]
+- [[TableHead()]] - `imports` [EXTRACTED]
+- [[TableHeader()]] - `imports` [EXTRACTED]
+- [[TableRow()]] - `imports` [EXTRACTED]
+- [[TimeRange]] - `contains` [EXTRACTED]
+- [[TimelineBucket]] - `contains` [EXTRACTED]
+- [[Tooltip()]] - `imports` [EXTRACTED]
+- [[api.ts]] - `imports_from` [EXTRACTED]
+- [[apiFetch()]] - `imports` [EXTRACTED]
+- [[axisStyle]] - `contains` [EXTRACTED]
+- [[badge.tsx]] - `imports_from` [EXTRACTED]
+- [[client_src_components_ui_select_select]] - `imports` [EXTRACTED]
+- [[dialog.tsx]] - `imports_from` [EXTRACTED]
+- [[formatMs()]] - `contains` [EXTRACTED]
+- [[formatSqliteUtcToLocalTime()]] - `imports` [EXTRACTED]
+- [[formatTimelineTick()]] - `contains` [EXTRACTED]
+- [[formatTokens()_1]] - `contains` [EXTRACTED]
+- [[i18nindex.ts]] - `imports_from` [EXTRACTED]
+- [[page-header.tsx]] - `imports_from` [EXTRACTED]
+- [[platformColors]] - `imports` [EXTRACTED]
+- [[ref_lucide_react]] - `imports_from` [EXTRACTED]
+- [[ref_react]] - `imports_from` [EXTRACTED]
+- [[ref_recharts]] - `imports_from` [EXTRACTED]
+- [[ref_tanstack_react_query]] - `imports_from` [EXTRACTED]
+- [[routing.ts]] - `imports_from` [EXTRACTED]
+- [[segmented-control.tsx]] - `imports_from` [EXTRACTED]
+- [[select.tsx]] - `imports_from` [EXTRACTED]
+- [[shortUserAgent()]] - `contains` [EXTRACTED]
+- [[skeleton.tsx]] - `imports_from` [EXTRACTED]
+- [[statusTextClass()]] - `contains` [EXTRACTED]
+- [[storedRange()]] - `contains` [EXTRACTED]
+- [[table.tsx]] - `imports_from` [EXTRACTED]
+- [[tooltip.tsx]] - `imports_from` [EXTRACTED]
+- [[tooltipStyle]] - `contains` [EXTRACTED]
+- [[useI18n()]] - `imports` [EXTRACTED]
+- [[utils.ts]] - `imports_from` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None

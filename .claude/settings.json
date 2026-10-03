@@ -1,0 +1,6 @@
+{
+  "vaultName": "SecondBrain",
+  "assistantName": "Claude Second Brain",
+  "defaultRoutingEngine": "omnirouter",
+  "autoWikilinks": true
+}

@@ -1,0 +1,22 @@
+---
+source_file: "client/components.json"
+type: "code"
+community: "Community None"
+location: "L15"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# aliases
+
+## Connections
+- [[components]] - `contains` [EXTRACTED]
+- [[components.json]] - `contains` [EXTRACTED]
+- [[hooks]] - `contains` [EXTRACTED]
+- [[lib]] - `contains` [EXTRACTED]
+- [[ui]] - `contains` [EXTRACTED]
+- [[utils]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None

@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newFileFolderPath": "00_Inbox",
+  "attachmentFolderPath": "06_System/Attachments",
+  "showLineNumber": true,
+  "readableLineLength": true
+}

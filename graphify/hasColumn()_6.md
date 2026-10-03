@@ -1,0 +1,19 @@
+---
+source_file: "server/src/db/migrations/20260726_000004_media_model_meta.ts"
+type: "code"
+community: "Community None"
+location: "L23"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_None
+---
+
+# hasColumn()
+
+## Connections
+- [[20260726_000004_media_model_meta.ts]] - `contains` [EXTRACTED]
+- [[down()_13]] - `calls` [EXTRACTED]
+- [[up()_13]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_None
