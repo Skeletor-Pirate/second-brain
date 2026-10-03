@@ -1,0 +1,17 @@
+# Obsidian
+.obswp/
+.obswm/
+.obswd/
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/styles.css
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# Misc
+*.swp
+*.swo
+*~
